@@ -10,6 +10,6 @@
 
 | repo        | description    | 
 | ------------- |-------------| 
-| [I'm an inline-style link](https://github.com/amariths/javascript-project)  | right-aligned |
+| [javascript project](https://github.com/amariths/javascript-project)  | right-aligned |
 | col 2 is      | centered      | 
 | zebra stripes | are neat      | 
