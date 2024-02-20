@@ -37,3 +37,4 @@
 | repo        |  website link  | description |
 | ------------- |-------------| -------------|
 | [python minigames](https://github.com/amariths/python)   | only available in terminal when starting python minigame  | this python project includes multiple minigames created with python such as quiz, numberguesser etc |
+| [python scrapy](https://github.com/amariths/python-scrapy)   | no website for this. only created csv | this is a setup python scrapy to create xml, json and csv from website chocolate.co.uk where i scrape data and put it in csv. also added api key so its connected to scrapyops website. |
