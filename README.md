@@ -1,4 +1,4 @@
-# school projects portfolio-Amar-Mehdi
+# portfolio-Amar-Mehdi
 
 
 
@@ -23,3 +23,6 @@
 | [Fullstack group project](https://github.com/FannyHedman/fullstack-app-grupp9/tree/main)   |  page not available  | this is my Fullstack project with my group where it is more focused on making backend and databas while making frontend client side with react. backend we use here is sql pg admin. it was quite fun and easier to make database and backend but its difficult to come up with solutions |
 | [project testing with cypress and jest](https://github.com/amariths/project-testing)   | use cypress or jest in command page not available  | this project is a small and simple login and used for testing with jest and cypress in command. |
 
+
+
+| [python minigames](https://github.com/amariths/python)   |   | this project is a small and simple login and used for testing with jest and cypress in command. |
