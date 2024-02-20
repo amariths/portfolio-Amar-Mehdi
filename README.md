@@ -25,4 +25,15 @@
 
 
 
-| [python minigames](https://github.com/amariths/python)   |   | this project is a small and simple login and used for testing with jest and cypress in command. |
+
+
+
+# python portfolio
+
+
+
+
+
+| repo        |  website link  | description |
+| ------------- |-------------| -------------|
+| [python minigames](https://github.com/amariths/python)   | only available in terminal when starting python minigame  | this python project includes multiple minigames created with python such as quiz, numberguesser etc |
