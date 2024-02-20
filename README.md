@@ -4,7 +4,7 @@
 
 
 
-# GitHub portfolio
+# GitHub school projects portfolio
 
 
 
